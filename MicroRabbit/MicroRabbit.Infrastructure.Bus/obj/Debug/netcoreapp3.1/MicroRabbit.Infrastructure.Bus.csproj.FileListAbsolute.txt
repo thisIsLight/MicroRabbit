@@ -1,0 +1,13 @@
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.deps.json
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domai.Core.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domai.Core.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.csproj.AssemblyReference.cache
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.AssemblyInfoInputs.cache
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.AssemblyInfo.cs
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.csproj.CoreCompileInputs.cache
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.csproj.CopyComplete
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.pdb
