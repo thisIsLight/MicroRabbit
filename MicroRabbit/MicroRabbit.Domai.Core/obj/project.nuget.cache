@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AB9F1kaw5LlDdW1yV2KM6y9tZABOl17RP7o8ne2PbEIJiLtyl85wWwrg72dRNgH1fzrl08m1V7GYTuZSL9fJHQ==",
+  "dgSpecHash": "xZ/UgaONm+935vty8W/3Zqn2DwSNOOUtjagnsX+HhFVWOkXv9h6GLOZUHZGsoiw0lkV70XM5pKVQ57/Te1TUTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\SahilRao\\Downloads\\Learn\\MicroRabbit\\MicroRabbit\\MicroRabbit.Domai.Core\\MicroRabbit.Domai.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SahilRao\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\SahilRao\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
