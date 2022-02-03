@@ -7,3 +7,4 @@ C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Domai.Core
 C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Domai.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domai.Core.csproj.CoreCompileInputs.cache
 C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Domai.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domai.Core.dll
 C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Domai.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domai.Core.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Domai.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domai.Core.csproj.AssemblyReference.cache
