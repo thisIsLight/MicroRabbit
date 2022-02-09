@@ -1,0 +1,16 @@
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.deps.json
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.runtimeconfig.json
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.runtimeconfig.dev.json
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.AssemblyReference.cache
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfo.cs
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CopyComplete
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.genruntimeconfig.cache

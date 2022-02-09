@@ -1,0 +1,10 @@
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.deps.json
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.AssemblyReference.cache
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfo.cs
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
