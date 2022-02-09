@@ -8,3 +8,8 @@ C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\
 C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.dll
 C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Domai.Core.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.dll
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Domai.Core.pdb
+C:\Users\SahilRao\Downloads\Learn\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.CopyComplete
