@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBwW5aYXBahtxZ5fcMr7NzB1Bd4e2uZZLcWKHBdMoBvgrDw2Lb7H5xm+GyG2KMDDxJHPFFYMP946FQ4S8fLONA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SahilRao\\Downloads\\Learn\\MicroRabbit\\MicroRabbit\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SahilRao\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\SahilRao\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SahilRao\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
