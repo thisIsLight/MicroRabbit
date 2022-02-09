@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8r0fW+xPotNyV1p8IfS8Uy5xMGVqwYV6YHppOlkXaPsCXnyuhDxy/FQQC3rUpaD40bIaCXbEAOF8fdNJDI9b0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SahilRao\\Downloads\\Learn\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking,Api\\MicroRabbit.Banking,Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SahilRao\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
